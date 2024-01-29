@@ -190,6 +190,11 @@
 		gap: 7px;
 	}
 
+	.footer-logo {
+		width: 50px;
+		height: 60px;
+	}
+
 	.header .nav-link {
 		font-size: 11px;
 	}

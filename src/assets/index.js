@@ -27,6 +27,7 @@ import getValintineBgHeart from './icons/get-valintine-bg-heart.png';
 import mediaEnvelop from './media-envelop.png';
 import mediaArrow from './icons/media-arrow.svg';
 import bestIcon from './icons/best.svg';
+import footerLogo from './icons/footer-logo.svg'
 
 export default {
 	amoreLogo,
@@ -57,5 +58,6 @@ export default {
 	getValintineBgHeart,
 	mediaEnvelop,
 	mediaArrow,
-	bestIcon
+	bestIcon,
+	footerLogo
 }
