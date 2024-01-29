@@ -8,9 +8,10 @@ import eros from './icons/eros.svg';
 import valentineBg from './valentine-content-bg.png';
 import arrow from './icons/arrow.svg';
 import getValintineIcon from './icons/get-valentine.png';
-import numberOne from './icons/number1.png'
-import numberTwo from './icons/number2.png'
-import numberThree from './icons/number3.png'
+import numberOne from './icons/number1.png';
+import numberTwo from './icons/number2.png';
+import numberThree from './icons/number3.png';
+import numberFour from './icons/number4.png';
 import paperBg from './paper-bg.png';
 import rodmapBoxBg from './rodmap-box-bg.png';
 import moneyHeart from './money-heart.png'
@@ -22,6 +23,10 @@ import telgram from './icons/telegram.svg';
 import twitter from './icons/twitter.svg';
 import footerBoxBg from './footer-box-bg.png';
 import footerValintineIcon from './icons/footer-valintine.svg';
+import getValintineBgHeart from './icons/get-valintine-bg-heart.png';
+import mediaEnvelop from './media-envelop.png';
+import mediaArrow from './icons/media-arrow.svg';
+import bestIcon from './icons/best.svg';
 
 export default {
 	amoreLogo,
@@ -47,5 +52,10 @@ export default {
 	telgram,
 	twitter,
 	footerBoxBg,
-	footerValintineIcon
+	footerValintineIcon,
+	numberFour,
+	getValintineBgHeart,
+	mediaEnvelop,
+	mediaArrow,
+	bestIcon
 }

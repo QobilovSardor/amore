@@ -3,7 +3,7 @@ import './rodmap.css';
 
 export const Rodmap = () => {
 	return (
-		<div className='rodmap-section'>
+		<div className='rodmap-section' id='rodmap'>
 			<div className="title">
 				<h2 className="title-text__pink">ROADMAP</h2>
 			</div>
@@ -19,7 +19,7 @@ export const Rodmap = () => {
 						3. Audit/Whitepaper <br />
 						4. Staking pools <br />
 						5. Coinmarketcap <br />
-						6. Callers/influencer 
+						6. Callers/influencer
 					</p>
 				</div>
 			</div>
@@ -50,7 +50,7 @@ export const Rodmap = () => {
 					<p className='rodmap-content__info'>
 						1. Big partnership <br />
 						2. Ter1 CEX listing <br />
-						3. Mass adoption 
+						3. Mass adoption
 					</p>
 				</div>
 			</div>
@@ -58,11 +58,13 @@ export const Rodmap = () => {
 			<div className="rodmap-content">
 				<div className="rodmap-content__box rodmap-content__two">
 					<div className="title">
-						<img src={assets.numberThree} alt="number two" />
-						<h2 className='rodmap-content__title'>TITLE</h2>
+						<img src={assets.numberFour} alt="number two" />
+						<h2 className='rodmap-content__title'>Phase4</h2>
 					</div>
 					<p className='rodmap-content__info'>
-						Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+						1. Big partnership <br />
+						2. Ter1 CEX listing <br />
+						3. Mass adoption
 					</p>
 				</div>
 			</div>
