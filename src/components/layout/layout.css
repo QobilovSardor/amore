@@ -9,6 +9,19 @@
 	justify-content: space-between;
 }
 
+.header .i-text {
+	position: relative;
+	color: var(--white);
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.header .i-icon {
+	position: absolute;
+	top: 1px;
+	left: -1px;
+}
+
 .header .nav-list {
 	display: flex;
 	gap: 24px;
@@ -60,7 +73,6 @@
 	font-size: 24px;
 	font-weight: 700;
 	margin-left: 23px;
-	height: 29px !important;
 }
 
 .header .get-valentine__btn {
@@ -156,9 +168,8 @@
 	}
 
 	.header .get-valentine__btn {
-		width: 120px;
-		margin-top: 5px;
 		margin-left: 0;
+		font-size: 20px;
 	}
 
 	.header .get-valentine__btn>img,
