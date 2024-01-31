@@ -1,10 +1,9 @@
 .faq-section {
-	background-image: url(../../assets/faq-papre.svg); 
+	background-image: url(../../assets/faq-papre.svg);
 	background-repeat: no-repeat;
 	background-size: 510.856px 87%;
-	/* background-size: 40% 100%; */
 	background-position: 0 0;
-	padding: 116px 0 167px 0;
+	padding-bottom: 167px;
 }
 
 .faq-section .title {
@@ -49,10 +48,10 @@
 	}
 
 	.faq-section {
-		padding: 728px 0 134px 0;
-		background-image: url(../../assets/cupid.png);
+		padding: 72px 0 134px 0;
+		background-image: url(/src/assets/cupid.png);
 		background-size: 82% 32%;
-		background-position: -78% 38%;
+		background-position: -94% -14%;
 		background-repeat: no-repeat;
 	}
 

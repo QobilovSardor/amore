@@ -29,6 +29,7 @@ import mediaArrow from './icons/media-arrow.svg';
 import bestIcon from './icons/best.svg';
 import footerLogo from './icons/footer-logo.svg';
 import iIcon from './icons/i.svg'
+import tokenMain from './tokenomiks-main.png'
 
 export default {
 	amoreLogo,
@@ -61,5 +62,6 @@ export default {
 	mediaArrow,
 	bestIcon,
 	footerLogo,
-	iIcon
+	iIcon,
+	tokenMain
 }
